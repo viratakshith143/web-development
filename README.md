@@ -3,8 +3,8 @@
 ## Student Details
 - **Name:** G V Akshith
 - **Roll Number:** 26001205
+- **Course:** B.Tech – 1st Year CSE - AIML
 - **Section:** CSM-6
-- **Course:** B.Tech – 1st Year
 
 ## About This Repository
 This repository contains three web development lab experiments created using **HTML and CSS**. These projects demonstrate the use of web page structure, styling, navigation bars, responsive layouts, product displays, and information sections.
